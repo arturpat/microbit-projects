@@ -11,6 +11,9 @@
 #         light them up accordingly the shorter the distance.            #
 # Hint 2: The slower you move, the more accurate the distance reading.   #
 # Hint 3: The lowest distance I managed to measure was '4'.              #
+#                                                                        #
+# The code has been created with a lot of help from the BitBot producer, #
+# 4tronix. Thanks Gareth!                                                #
 ##########################################################################
 
 
